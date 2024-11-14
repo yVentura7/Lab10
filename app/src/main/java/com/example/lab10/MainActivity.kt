@@ -1,4 +1,4 @@
-package com.example.lab10
+package com.tecsup.lab10
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
