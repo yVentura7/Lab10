@@ -44,7 +44,7 @@ fun ScreenInicio() {
         contentAlignment = Alignment.Center
     ) {
         Text(
-            text = "Bienvenido a la App de Series",
+            text = "Bienvenido a la App de Series Locales",
             fontSize = 24.sp,
             fontWeight = FontWeight.Bold,
             color = MaterialTheme.colorScheme.primary
