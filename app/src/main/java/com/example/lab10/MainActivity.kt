@@ -8,7 +8,6 @@ import com.tecsup.lab10.view.SeriesApp
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        // Llama a la función SeriesApp para cargar la aplicación
         setContent {
             SeriesApp()
         }
