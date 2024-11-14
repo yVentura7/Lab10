@@ -10,7 +10,7 @@ class MainActivity : ComponentActivity() {
         super.onCreate(savedInstanceState)
         // Llama a la función SeriesApp para cargar la aplicación
         setContent {
-            SeriesApp() // Esta función contiene toda la lógica de la interfaz y navegación
+            SeriesApp()
         }
     }
 }
